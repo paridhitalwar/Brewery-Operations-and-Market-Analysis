@@ -2,7 +2,7 @@
 | CS-688   | Big Data Analytics                        |
 |----------|-------------------------------------------|
 | Name     | Paridhi Talwar                            |
-| Date     | 04/19/2024                                |
+| Date     | 08/6/2024                                |
 | Course   | Summer'2024                               |
 | Project  | Brewery-Operations-and-Market-Analysis    |
 
