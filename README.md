@@ -1,7 +1,30 @@
+
+| CS-688   | Web Minning and Graph Analysis            |
+|----------|-------------------------------------------|
+| Name     | Paridhi Talwar                            |
+| Date     | 04/19/2024                                |
+| Course   | Spring'2024                               |
+| Project  | Brewery-Operations-and-Market-Analysis    |
+
 # Brewery-Operations-and-Market-Analysis
+## Project Overview
 This project focuses on analyzing brewing parameters, sales trends, and quality metrics in craft beer production. Using Apache Spark and PySpark on Google Cloud Platform (GCP), we explore data from 2020 to 2024 to gain insights into the brewing process, identify factors influencing quality scores, and predict future outcomes using machine learning models.
 
 The project involves data preprocessing, feature engineering, exploratory data analysis (EDA), and model development using Random Forest Regression and KMeans clustering. The ultimate goal is to enhance understanding of the brewing process and optimize production for better quality and efficiency.
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Dataset Description](#dataset-description)
+3. [Installation](#installation)
+4. [Data Preprocessing](#data-preprocessing)
+5. [Feature Engineering](#feature-engineering)
+6. [Exploratory Data Analysis](#exploratory-data-analysis)
+7. [Model Implementation](#model-implementation)
+8. [Results](#results)
+9. [Conclusion](#conclusion)
+10. [References](#references)
+11. [License](#license)
 
 ## Dataset Description
 ### Brewing Parameters:
@@ -24,15 +47,15 @@ Sales Data (USD):
 ## Installation and Setup
 To run this project locally, follow these steps:
 1. Clone the Repository:
-
+ ```bash
 git clone https://github.com/your-username/brewing-analysis.git
 cd brewing-analysis
-
+  ```
 2. Set Up a Virtual Environment:
-
+ ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
+  ```
 3. Run the Notebook:
 Launch Jupyter Notebook and open brewing_analysis.ipynb to explore the analysis.
 
@@ -80,3 +103,6 @@ Model evaluation metrics and feature importance provide insights into model perf
 • KMeans Clustering: https://scikit-learn.org/stable/modules/clustering.html#k-means
 • Kaggle: https://www.kaggle.com/
 • Stack Overflow: https://stackoverflow.com/
+
+## License
+This project is licensed under the [MIT License](LICENSE).
