@@ -1,5 +1,5 @@
 
-| CS-688   | Big Data Analytics                        |
+| CS-777   | Big Data Analytics                        |
 |----------|-------------------------------------------|
 | Name     | Paridhi Talwar                            |
 | Date     | 08/6/2024                                |
