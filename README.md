@@ -28,21 +28,21 @@ The project involves data preprocessing, feature engineering, exploratory data a
 
 ## Dataset Description
 ### Brewing Parameters:
-•	Fermentation Time: The duration of fermentation for each batch.
-•	Temperature: The temperature maintained during brewing.
-•	pH Level: The acidity level of the brew.
-•	Gravity: The density of the beer relative to water.
-•	Ingredient Ratios: The proportions of different ingredients used.
+- Fermentation Time: The duration of fermentation for each batch.
+- Temperature: The temperature maintained during brewing.
+- pH Level: The acidity level of the brew.
+- Gravity: The density of the beer relative to water.
+- Ingredient Ratios: The proportions of different ingredients used.
 ### Beer Styles and Packaging:
-•	Beer Styles: Categorized into IPA, Stout, Lager, etc.
-•	Packaging Types: Includes kegs, bottles, cans, and pints.
+- Beer Styles: Categorized into IPA, Stout, Lager, etc.
+- Packaging Types: Includes kegs, bottles, cans, and pints.
 ### Quality Scores:
-•	Ratings on a scale indicating the success and consistency of brewing methods.
+- Ratings on a scale indicating the success and consistency of brewing methods.
 Sales Data (USD):
-•	Detailed sales figures across different locations in Bangalore.
+- Detailed sales figures across different locations in Bangalore.
 ### Supply Chain and Efficiency Metrics:
-•	Volume Produced: The total volume of beer produced per batch.
-•	Total Sales: Sales revenue generated per batch.
+- Volume Produced: The total volume of beer produced per batch.
+- Total Sales: Sales revenue generated per batch.
 
 ## Installation and Setup
 To run this project locally, follow these steps:
