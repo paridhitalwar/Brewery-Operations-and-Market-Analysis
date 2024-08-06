@@ -1,5 +1,5 @@
 
-| CS-688   | Web Minning and Graph Analysis            |
+| CS-688   | Big Data Analytics                        |
 |----------|-------------------------------------------|
 | Name     | Paridhi Talwar                            |
 | Date     | 04/19/2024                                |
